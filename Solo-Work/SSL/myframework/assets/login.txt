@@ -1,0 +1,5 @@
+Mike@aol.com|password|Hello I am Mike. I am a student at Full Sail University.|
+
+Joe@aol.com|password|Hello I am Joe. I am also a student at Full Sail University.|
+
+Wsf235@gmail.com|Levia|Hello, I'm William. I'm an online student at Full Sail University!

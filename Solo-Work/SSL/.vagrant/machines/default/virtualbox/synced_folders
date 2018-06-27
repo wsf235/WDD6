@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/MasterAnseen/Desktop/WDD6/Solo-Work/SSL","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/MasterAnseen/Desktop/WDD6/Solo-Work/SSL","disabled":false,"__vagrantfile":true}}}
